@@ -1,4 +1,4 @@
-# Garasi Roda
+# Garasi Pukimart
 
 Dashboard inventaris untuk showroom sepeda motor. Aplikasi menggunakan pola MVC dengan PHP native dan mendukung MySQL/MariaDB maupun SQLite.
 
@@ -76,10 +76,10 @@ Untuk membuat tautan yang dapat dibagikan, unggah proyek ke layanan hosting PHP/
 
 > Lengkapi bagian ini sebelum mengumpulkan tugas. Detail identitas tidak disertakan karena belum diberikan.
 
-- Nama: **[Isi nama lengkap]**
-- Kelas: **[Isi kelas]**
-- Nomor absen / NIM: **[Isi nomor identitas]**
-- GitHub milik sendiri: **[Isi URL profil GitHub milikmu]**
+- Nama: **[Amabel Sihotang]**
+- Kelas: **[KAA A]**
+- Nomor absen / NIM: **[25210026]**
+- GitHub milik sendiri: **[https://github.com/amabelsihotang1-pixel/Perbaikan_UTS.git]**
 
 ## Catatan
 
